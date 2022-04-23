@@ -11,7 +11,7 @@
 
 - 🤝 Ich suche Hilfe bei [Swady.net](https://forum.swady.net)
 
-- 📫 How to reach me **niklasoliver77@icloud.com**
+- 📫 Wie Sie mich erreichen **Snenjih#6329**
 
 - ⚡ Fun fact **Ich habe mit dem Programmieren angefangen, weil mein Minecraft-Server Entwickler brauchte und ich keine gefunden habe.**
 

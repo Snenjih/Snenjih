@@ -7,12 +7,6 @@
 
 - 🌱 Ich Lerne gerade **MySQL, JavaScipt**
 
-- 👯 Ich brauche Hilfe bei [Swady.net](https://forum.swady.net)
-
-- 🤝 Ich suche Hilfe bei [Swady.net](https://forum.swady.net)
-
-- 📫 Wie Sie mich erreichen **snenjih@icloud.com**
-
 - ⚡ Fun fact **Ich habe mit dem Programmieren angefangen, weil mein Minecraft-Server Entwickler brauchte und ich keine gefunden habe.**
 
 <h3 align="left">Connect with me:</h3>

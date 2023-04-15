@@ -26,9 +26,8 @@
     </p>
   - 💬Programming languages / Text formatting tools
      <p alignment = "center">
-      <img src="https://kotlinlang.org" alt="drawing" width="50"/>
       <img src="https://www.java.com/de/" alt="drawing" width="50"/>
-      <img src="/assets/swift-original.svg" alt="drawing" width="50"/>
+      <img src="https://kotlinlang.org" alt="blender" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
       <img src="/assets/swiftui (1).png" alt="drawing" width="50"/>
       <img src="https://www.python.org" alt="drawing" width="50"/>
       <img src="/assets/markdown-original.svg" alt="drawing" width="50"/>
@@ -67,7 +66,7 @@
 ## 📫 How to reach me
 - Discord: Snenjih#5263
 - Twitter: twitter.com/meSnenjih
-- Discord Server : https://discord.gg/5gdthYHqSv
+- Email: beeadev@outlook.com
 
 <!---
 Snenjih/Snenjih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

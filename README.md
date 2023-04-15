@@ -67,7 +67,7 @@
 ## 📫 How to reach me
 - Discord: Snenjih#5263
 - Twitter: twitter.com/meSnenjih
-- Email: beeadev@outlook.com
+- Discord Server : https://discord.gg/5gdthYHqSv
 
 <!---
 Snenjih/Snenjih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

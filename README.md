@@ -1,12 +1,75 @@
+![Banner](https://github.com/Snenjih/Snenjih/blob/main/assets/banner.png?raw=true)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=for-the-badge&logo=unreal-engine&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Snenjih&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Snenjih&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Snenjih&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌵 About me
+- 🏷️ Name: Niklas
+- 🌿 Age: 14
+- 📍  From: Germany
+- 🗨  Languages: German, English
+- 💙 Hobbies: 
+  - Coding 👨‍💻
+  - Illustration 🎨
+  - listen music 🎶
+  - Swimming 🥽
+  
+## 👨‍💻 About programming
+- 💡 I'm learning: Python, Java, Kotlin
+- 📦 Tools I use:
+  - 📝IDEs / Text editors / File managers:
+    <p alignment = "center">
+      <img src="https://www.jetbrains.com" alt="drawing" width="50"/>  
+      <img src="https://www.python.org" alt="drawing" width="50"/>
+      <img src="https://maven.apache.org" alt="drawing" width="50"/>
+      <img src="/assets/vscode-original.svg" alt="drawing" width="50"/>
+      <img src="/assets/sublime-text.svg" alt="drawing" width="50"/>
+      <img src="/assets/filezilla-plain.svg" alt="drawing" width="50"/>
+      
+    </p>
+  - 💬Programming languages / Text formatting tools
+     <p alignment = "center">
+      <img src="https://kotlinlang.org" alt="drawing" width="50"/>
+      <img src="https://www.java.com/de/" alt="drawing" width="50"/>
+      <img src="/assets/swift-original.svg" alt="drawing" width="50"/>
+      <img src="/assets/swiftui (1).png" alt="drawing" width="50"/>
+      <img src="https://www.python.org" alt="drawing" width="50"/>
+      <img src="/assets/markdown-original.svg" alt="drawing" width="50"/>
+    </p>
+  - 🎨Design tools
+     <p alignment = "center">
+      <img src="/assets/Logo_AffinityDesigner.svg.png" alt="drawing" width="50"/>
+      <img src="/assets/Logo_AffinityPhoto.svg.png" alt="drawing" width="50"/>
+      <img src="/assets/Logo_AffinityPublisher.svg.png" alt="drawing" width="50"/>
+    </p>
+  - 💻Operating systems
+     <p alignment = "center">
+       <img src="/assets/apple-original.svg" alt="drawing" width="50"/>
+       <img src="/assets/microsoft-windows-11.svg" alt="drawing" width="50"/>
+       <img src="/assets/linux-original.svg" alt="drawing" width="50"/>
+       <img src="/assets/ubuntu-plain.svg" alt="drawing" width="50"/>
+       <img src="/assets/Manjaro-logo.svg.png" alt="drawing" width="50"/>
+    </p> 
+  - 🔧Tools / Frameworks / Database
+    <p>
+      <img src="/assets/docker-original.svg" alt="drawing" width="50"/>
+      <img src="/assets/git-original-wordmark.svg" alt="drawing" width="50"/>
+      <img src="/assets/gradle-plain.svg" alt="drawing" width="50"/>
+      <img src="/assets/mongodb-original.svg" alt="drawing" width="50"/>
+      <img src="/assets/wordpress-plain.svg" alt="drawing" width="50"/>
+      <img src="/assets/Apache_Maven_logo.svg.png" alt="drawing" width="50"/>   
+    </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Snenjih&icon=0&color=0)](https://visitcount.itsvg.in)
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🐙 GitHub Stats
+[![Snenjih's github stats](https://github-readme-stats.vercel.app/api?username=Snenjih)](https://github.com/Snenjih)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snenjih&layout=compact)](https://github.com/Snenjih)
+
+## 📫 How to reach me
+- Discord: Snenjih#5263
+- Twitter: twitter.com/meSnenjih
+- Email: beeadev@outlook.com
+
+<!---
+Snenjih/Snenjih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

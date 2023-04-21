@@ -7,7 +7,6 @@
 - 🗨  Languages: German, English
 - 💙 Hobbies: 
   - Coding 👨‍💻
-  - Illustration 🎨
   - listen music 🎶
   - Swimming 🥽
   

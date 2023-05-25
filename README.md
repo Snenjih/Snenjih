@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Snenjih</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An Java Developer from Germany</h3>
 
 <p align="left"> <a href="https://twitter.com/snenjih" target="blank"><img src="https://img.shields.io/twitter/follow/snenjih?logo=twitter&style=for-the-badge" alt="snenjih" /></a> </p>
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/snenjih" target="blank"><img src="https://img.shields.io/twitter/follow/snenjih?logo=twitter&style=for-the-badge" alt="snenjih" /></a> </p>
 
-- 🔭 I’m currently working on **BedWars**
+- 🔭 I’m currently working on **An BedWars Plugin for Minecraft**
 
 - 🌱 I’m currently learning **MySQL,python**
 

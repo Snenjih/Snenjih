@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **MySQL,python**
 
-- 👨‍💻 All of my projects are available at [snenjih.de](snenjih.de)
+- 👨‍💻 All of my projects are available at [snenjih.de](http://snenjih.de)
 
 - 💬 Ask me about **Java**
 
-- 📄 Know about my experiences [snenjih.de](snenjih.de)
+- 📄 Know about my experiences [snenjih.de](http://snenjih.de)
 
 - ⚡ Fun fact **I started Codeing because my Network had no Developers**
 

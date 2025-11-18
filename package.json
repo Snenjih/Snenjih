@@ -1,0 +1,13 @@
+{
+  "name": "github-profile-readme",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "update-readme": "node .github/scripts/update-top-projects.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^19.0.7"
+  }
+}
+

@@ -44,13 +44,6 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
   <img src="https://github-profile-trophy.vercel.app/?username=snenjih/ &theme=darkhub&no-frame=true&margin-w=15" alt="Snenjih's GitHub Trophies" />
 </p>
 
-
- ## 🔥 Profile Views
-
- <p align="center">
-  <img width="400px" src="https://count.getloli.com/get/@snenjih?theme=rule34"></img>
-</p>
-
 ## 🐍 Contribution Graph
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/snenjih/snenjih/refs/heads/output/github-contribution-grid-snake.svg#gh-light-mode-only)

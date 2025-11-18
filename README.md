@@ -38,12 +38,6 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=snenjih&theme=radical" alt="Snenjih's GitHub streak" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=snenjih/ &theme=darkhub&no-frame=true&margin-w=15" alt="Snenjih's GitHub Trophies" />
-</p>
-
 ## 🐍 Contribution Graph
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/snenjih/snenjih/refs/heads/output/github-contribution-grid-snake.svg#gh-light-mode-only)

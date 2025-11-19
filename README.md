@@ -13,7 +13,7 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
 - 🔭 Right now I’m working on the [best terminal App in the world](https://github.com/QuantomDevs/Terminus)
 - 👨‍💻 All of my projects are available at [https://link.snenjih.de](https://link.snenjih.de)
 - 🌱 I'm currently learning Node.js, React.js, Next.js and Electron.js
-- 👯 I'm looking to collaborate on interesting projects using PHP & Node.js
+- 👯 I'm looking to collaborate on interesting projects using Ract & Node.js
 - 📫 How to reach me: ```javascript: alert(atob("aHR0cHM6Ly90Lm1lL2xhbWIzcnQ="));```
 
 ## 🛠️ Technologies & Tools
